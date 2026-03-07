@@ -22,7 +22,7 @@ const arr2 = [10, [20, [30]]];
 const flatArray = arr2.flat(2);
 console.log(flatArray);
 flat(2) ka matlab 2 level tak nested array ko flat karna.
-------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 //Print double of each number
 const nums2 = [2, 4, 6];
 nums2.forEach(n => {
