@@ -16,7 +16,7 @@ const marks = [10, 60, 30, 80];
 const passed = marks.filter(m> m >= 40);
 console.log(passed);
 find() first element return karta hai jo condition satisfy kare.
-----------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 //Flatten this array
 const arr2 = [10, [20, [30]]];
 const flatArray = arr2.flat(2);
