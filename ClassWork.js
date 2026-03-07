@@ -4,7 +4,7 @@ const result = marks.every(m => m >= 40);
 console.log(result);
 
 every() check karta hai ki sabhi elements condition satisfy kar rahe hain ya nahi.
-------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 //Get students who passed (marks ≥ 40)
 const marks = [10, 60, 30, 80];
 const passed = marks.filter(m => m >= 40);
