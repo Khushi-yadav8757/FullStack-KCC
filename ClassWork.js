@@ -10,7 +10,7 @@ const marks = [10, 60, 30, 80];
 const passed = marks.filter(m => m >= 40);
 console.log(passed);
 filter() sirf condition true wale elements return karta hai.
--------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 //Find first student with marks greater than 80
 const marks = [10, 60, 30, 80];
 const passed = marks.filter(m> m >= 40);
