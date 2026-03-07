@@ -40,7 +40,7 @@ console.log(names);
 Output
 ["Rahul","Priya","Aman"]
 some() check karta hai ki koi bhi element condition satisfy karta hai ya nahi.
--------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 //Sort ascending & descending
 
 const nums1 = [45,12,89,3];
